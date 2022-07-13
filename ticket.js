@@ -226,5 +226,5 @@ client.on("messageCreate", (msg) => {
 });
 
 client.login(
-  "OTg5NTUwNDc3NDkyNTA2Njc0.G92Fa9.CzMz3QZc0Y1Y_fPUvF9PnF6Rz8AZ_tN-uQd3GM"
+  "token goes here"
 );
