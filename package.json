@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^13.8.1"
+  },
+  "name": "ticket-bot",
+  "version": "1.0.0",
+  "main": "ticket.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
